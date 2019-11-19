@@ -1,0 +1,11 @@
+{htxt id="multiple-honoree_section"}
+  {ts}Multiple Honoree Section{/ts}
+{/htxt}
+{htxt id="multiple-honoree_section"}
+<p>
+  {ts}If you want to allow contributors to specify set of persons whom they are honoring with their gift, check this gift{/ts}
+</p>
+<p>
+ {ts}An optional Honoree section will included in the form that will allow multiple Honoree to be added, with the donor able to specify different amounts per Honoree.{/ts}
+</p>
+{/htxt}
