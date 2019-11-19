@@ -106,7 +106,7 @@ CRM.$(function($) {
     var hasHidden = $('div.honoree-row').hasClass("hiddenElement");
     if (hasHidden) {
       var row = $('#multiplehonorees div.hiddenElement:first');
-      $('div.hiddenElement:first, #multiplehonorees').fadeIn("slow").removeClass('hiddenElement');
+      row.fadeIn("slow").removeClass('hiddenElement');
       hasHidden = $('div.honoree-row').hasClass("hiddenElement");
     }
     $('#add-another-item').toggle(hasHidden);
