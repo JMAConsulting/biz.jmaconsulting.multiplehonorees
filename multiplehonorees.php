@@ -200,7 +200,7 @@ function multiplehonorees_civicrm_postProcess($formName, &$form) {
 
       $ufJoinParams = [
         'id' => $ufJoinDAO->id,
-        'uf_group_id' => 13,
+        'uf_group_id' => 80,
         'is_active' => 1,
         'module' => 'multiple_honoree',
         'entity_table' => 'civicrm_contribution_page',
