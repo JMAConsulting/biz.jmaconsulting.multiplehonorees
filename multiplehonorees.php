@@ -1,8 +1,8 @@
 <?php
-define('GIFT_CARD_REFEREE', 12);
-define('GIFT_CARD_TOTAL', 13);
-define('GIFT_CARD_AMOUNT', 14);
-define('GIFT_CARD_NAME', 15);
+define('GIFT_CARD_REFEREE', 345);
+define('GIFT_CARD_TOTAL', 346);
+define('GIFT_CARD_AMOUNT', 347);
+define('GIFT_CARD_NAME', 349);
 
 require_once 'multiplehonorees.civix.php';
 use CRM_Multiplehonorees_ExtensionUtil as E;
