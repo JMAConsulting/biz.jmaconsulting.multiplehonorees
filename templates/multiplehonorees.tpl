@@ -1,6 +1,10 @@
 <div id="multiplehonorees" class="crm-public-form-item crm-group custom_post_profile-group">
   <div class="crm-public-form-item crm-group">
     <fieldset><legend>{ts}Gift of Family Card Campaign Details{/ts}</legend>
+      <div class="crm-public-form-item crm-section">
+          We invite you to enter the names of your card recipients (honourees) so we can recognize them in our Annual Report and other materials.
+      </div>
+      <br/>
       <div class="crm-section">
         <div class="label">
           {$form.referred_by.label}
